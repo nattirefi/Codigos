@@ -1,3 +1,5 @@
+# Funcionamento do GIT
+
 ## Para iniciar um GIT
 git init
 
@@ -15,7 +17,7 @@ git commit -m "first commit"
 git push -u origin master
 
 
-## Processo de contribuição no GitHub
+# Processo de contribuição no GitHub
 1. Fork do projeto para o seu usuário.
 2. Clone do projeto forkado na sua máquina.
 3. Taca-le pau ..
